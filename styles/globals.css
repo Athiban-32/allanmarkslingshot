@@ -130,7 +130,7 @@ width: 100%;
 
 .hero-banner-container{
   padding: 100px 40px;
-  background-color: #f02d34;
+  background-color: #dcdcdc;
   border-radius: 15px;
   position: relative;
   height: 500px;
@@ -139,13 +139,13 @@ width: 100%;
 
 }
 .hero-banner-container .beats-solo{
-  font-size: 30px;
+  font-size: 20px;
 }
 .hero-banner-container button{
    border-radius: 15px;
   padding: 10px 16px;
-  background-color: lightgreen;
-  color: darkcyan;
+  background-color: #f02d34;
+  color: white;
   border: none;
   margin-top: 40px;
   font-size: 18px;
@@ -160,7 +160,7 @@ width: 100%;
 }
 .hero-banner-container h1{
   color: white;
-  font-size: 5em;
+  font-size: 10em;
   margin-left: -20px;
   text-transform: uppercase;
 }
