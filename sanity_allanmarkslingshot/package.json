@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce",
+  "name": "allanmarkslingshot",
   "private": true,
   "version": "1.0.0",
   "description": "",
@@ -21,11 +21,15 @@
     "@sanity/desk-tool": "^2.34.0",
     "@sanity/eslint-config-studio": "^2.0.0",
     "@sanity/vision": "^2.34.0",
-    "@stripe/stripe-js": "^1.38.1",
     "eslint": "^8.6.0",
     "prop-types": "^15.7",
     "react": "^17.0",
     "react-dom": "^17.0",
     "styled-components": "^5.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Athiban-32/sanity-ecommerce.git"
   }
 }

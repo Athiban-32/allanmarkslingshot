@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "allanmarkslingshot"
   },
   "api": {
-    "projectId": "vk37iilb",
+    "projectId": "n89lfsgv",
     "dataset": "production"
   },
   "plugins": [
